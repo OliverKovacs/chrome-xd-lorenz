@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "Chrome XD Lorenz",
+  "description": "Lorenz system new tab.",
+  "version": "2.1",
+  "short_name" : "Lorenz system",
+  "chrome_url_overrides" : {
+    "newtab" : "index.html"
+  },
+  "icons" : {
+    "128" : "icon128.png"
+  }
+}
